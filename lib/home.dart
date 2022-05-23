@@ -61,8 +61,7 @@ class _HomePageState extends State<HomePage> {
                   child: Text(action == 'create' ? 'Create' : 'Update'),
                   onPressed: () async {
                     final String? judul = _judulController.text;
-                    final double? deskripsi =
-                        double.tryParse(_deskripsiController.text);
+                    final String? deskripsi = _deskripsiController.text;
                     if (judul != null && deskripsi != null) {
                       if (action == 'create') {
                         // Mengirim ke collection
