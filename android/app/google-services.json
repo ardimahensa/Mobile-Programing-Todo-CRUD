@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452205046278",
+    "project_id": "mobile-programing-8d4ac",
+    "storage_bucket": "mobile-programing-8d4ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452205046278:android:1f9965f87c0920df877187",
+        "android_client_info": {
+          "package_name": "com.example.crud_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452205046278-dmdf5e917jjfj88fdbm039fjivo519cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMT0oUkTwJ871a24FyTZnKJuo29vaI4qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452205046278-dmdf5e917jjfj88fdbm039fjivo519cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
